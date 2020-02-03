@@ -5,6 +5,7 @@ Jack add first line between two chinese lines.
 Jack add second line between tow chinese lines.
 Jack add 3th line between two chinese lines.
 Jack add 4th line between two chinese lines.
+Jack add 5th line between two chines lines in master branch.
 
 这是我的同事小A在我下班之后做的修改。
 
