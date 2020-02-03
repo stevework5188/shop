@@ -1,4 +1,4 @@
-该文件是线上远程仓库的读我文件，初始化时候创建的。
+﻿该文件是线上远程仓库的读我文件，初始化时候创建的。
 
 这是在dev分支下新加的内容。
 
@@ -11,3 +11,5 @@ Add third line here.
 Add fourth line here.
 Add fifth line here.
 Tom add sixth line here.
+Jack add seventh line here.
+
