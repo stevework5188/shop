@@ -1,4 +1,9 @@
 public class ClassA{
+  
+    public static void main(String[] args){
+      
+    }
+
 
 
    public void show(){
@@ -7,3 +12,4 @@ public class ClassA{
 
 
 }
+
