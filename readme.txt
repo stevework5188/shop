@@ -8,6 +8,8 @@ Jack add 4th line between two chinese lines.
 Jack add 5th line between two chines lines in master branch.
 
 这是我的同事小A在我下班之后做的修改。
+This change comes from my cowork Tom.
+
 
 Add one line here.
 Add second line here.
